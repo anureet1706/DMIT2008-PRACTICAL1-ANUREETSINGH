@@ -1,0 +1,15 @@
+{
+  "products":{
+    "-MvqcD3lAvBVp7Zt2jBM": {
+      "key": "-MvqcD3lAvBVp7Zt2jBM",
+      "sku": "8514085581",
+      "image": "static/images/airplane-1",
+      "title": "Wizz Air",
+      "price": 354.54,
+      "availability": 34,
+      "model": "A321-231"
+    }
+  }
+}
+
+
