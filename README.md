@@ -3,8 +3,6 @@ How to read data from the real time database and render the vacations in the bro
 
 
  
-### 1. Make Sure You Have Data
-Make sure you have at least 4 data sets in the RTD (real time database). We will use this data in the read.html page to present the data using a render function.
 
 
 
